@@ -58,7 +58,7 @@ pip install python-telegram-bot pytube
 1. Clone this repository to your local machine or download the project files.
    
    ```bash
-   git clone https://github.com/your-username/youtube-video-downloader-bot.git
+   git clone https://github.com/Dhanush0000/youtube-video-downloader-bot.git
    ```
 
 2. Open the `bot.py` file and replace the following line with your own Telegram Bot Token:
